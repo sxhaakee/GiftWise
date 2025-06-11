@@ -10,6 +10,12 @@ This is a modern web application built with Next.js that provides personalized g
 *   **Responsive Design:** Optimized for a seamless experience across various devices.
 *   **Modern UI:** Built with shadcn/ui components for a sleek and intuitive user interface.
 
+ <img width="1280" alt="Screenshot 2025-06-11 at 6 40 46 PM" src="https://github.com/user-attachments/assets/39e32573-ae8e-408a-8aea-f7485ca09eac" />
+ <img width="1280" alt="Screenshot 2025-06-11 at 6 41 03 PM" src="https://github.com/user-attachments/assets/828edb30-fb35-4161-aff7-71948959f743" />
+ <img width="1280" alt="Screenshot 2025-06-11 at 6 42 16 PM" src="https://github.com/user-attachments/assets/d38c9b60-4b1b-4a57-aefd-ee02392bd54e" />
+ <img width="1280" alt="Screenshot 2025-06-11 at 6 41 51 PM" src="https://github.com/user-attachments/assets/0f6e047a-b83c-405b-ab9a-80bfb210b5b0" />
+
+
 ## Technologies Used
 
 *   **Next.js:** React framework for building server-side rendered and static web applications.
